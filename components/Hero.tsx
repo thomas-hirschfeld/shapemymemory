@@ -4,7 +4,6 @@ import { useEffect, useState } from 'react';
 
 const IMAGES = [
   '/hero/Screenshot 2025-08-31 at 2.47.36 PM.png',
-  '/hero/Screenshot 2025-09-08 at 4.24.24 PM.png',
   '/hero/Screenshot 2025-10-05 at 4.20.45 PM.png',
 
 ];
