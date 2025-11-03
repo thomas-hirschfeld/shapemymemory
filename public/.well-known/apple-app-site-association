@@ -1,14 +1,17 @@
 {
+  "appclips": {
+    "apps": ["MLP7H94P4J.com.shapemymemory.scan"]
+  },
+  "webcredentials": {
+    "apps": ["MLP7H94P4J.com.shapemymemory"]
+  },
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "MLP7H94P4J.com.yourcompany.shapemymemory",
-        "paths": ["*"]
+        "appID": "MLP7H94P4J.com.shapemymemory",
+        "paths": ["/scan/*", "/lidar/*"]
       }
     ]
-  },
-  "appclips": {
-    "apps": ["MLP7H94P4J.com.yourcompany.shapemymemory.Clip"]
   }
 }
