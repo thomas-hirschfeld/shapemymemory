@@ -1,15 +1,15 @@
 {
   "appclips": {
-    "apps": [ "ABCDE12345.com.shapemymemory.scan" ]
+    "apps": [ "MLP7H94P4J.com.shapemymemory.scan" ]
   },
   "webcredentials": {
-    "apps": [ "ABCDE12345.com.shapemymemory" ]
+    "apps": [ "MLP7H94P4J.com.shapemymemory" ]
   },
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "ABCDE12345.com.shapemymemory",
+        "appID": "MLP7H94P4J.com.shapemymemory",
         "paths": [ "/scan/*", "/lidar/*" ]
       }
     ]
