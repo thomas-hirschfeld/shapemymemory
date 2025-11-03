@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MLP7H94P4J.com.yourcompany.shapemymemory",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["MLP7H94P4J.com.yourcompany.shapemymemory.Clip"]
+  }
+}
